@@ -16,4 +16,5 @@
 ## Sources 
     Phenomenal Demo: http://madebyevan.com/dft/
     Image Processing and Fourier: https://homepages.inf.ed.ac.uk/rbf/HIPR2/fourier.html
+    FFT Explained: http://www.cs.cmu.edu/afs/andrew/scs/cs/15-463/2001/pub/www/notes/fourier/fourier.pdf
     Gilbert Strang: https://ocw.mit.edu/courses/mathematics/18-085-computational-science-and-engineering-i-fall-2008/video-lectures/lecture-31-fast-fourier-transform-convolution/
